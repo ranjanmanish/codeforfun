@@ -1,5 +1,8 @@
 import java.math.*;
-
+/**
+*	this class is suppose to take a string in Hex and another String in 
+*	binary and find if both of them equal
+*/
 public class NotoBinHexa{
 	public static void main (String args[]){
 	System.out.println("This code wil check  if given Binary and Hexa are equal!");
